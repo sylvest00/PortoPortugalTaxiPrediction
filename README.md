@@ -13,12 +13,11 @@ The Kaggle/ conference competitions had two immediate aims:
 
 *ECML PKDD = European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases
 
-
 ### Final Project Objectives
 For my final project, I chose to predict the final destination and trip time of a randomly selected partial trajectory (trip #40).
 
 #### The Data
-### Datasets
+
 This Kaggle challenge came with 3 data sets- a test set (321 hypothetical observations), a training set (1710671 observations), and a CSV file that contains the name and latitude and longitude of taxi stands that are included in the data set.
 
 The training and test sets include the following variables:
